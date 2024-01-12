@@ -1,0 +1,26 @@
+@media only screen and (max-width: 900px) {
+  body {
+    background-color: darksalmon;
+    border: solid darksalmon;
+    border-radius: 10px;
+  }
+
+  .luv {
+    display: grid;
+    grid-template-columns: auto;
+    background-color: rgb(255, 228, 196);
+    border: solid darksalmon 5px;
+    border-radius: 15px;
+  }
+
+  .doILoveYou {
+    color: pink;
+    font-size: 30px;
+    margin-bottom: 0%;
+  }
+
+  .ofc {
+    padding-left: 50px;
+    font-size: 20px;
+  }
+}

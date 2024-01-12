@@ -1,0 +1,39 @@
+body {
+  background-color: darksalmon;
+  border: solid darksalmon;
+  border-radius: 10px;
+}
+
+img {
+  border-radius: 15px;
+}
+
+.luv {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  background-color: rgb(255, 228, 196);
+  border: solid darksalmon 5px;
+  border-radius: 15px;
+}
+.luV {
+  margin-left: auto;
+  margin-right: auto;
+}
+.luvv {
+  display: flex;
+  justify-content: center;
+}
+
+.doILoveYou {
+  color: pink;
+  font-size: 50px;
+  margin-bottom: 0%;
+}
+
+.ofc {
+  padding-left: 150px;
+  font-size: 20px;
+}
+.luVV {
+  background-color: darksalmon;
+}
